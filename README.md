@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Check out my home!](https://user-images.githubusercontent.com/35205346/92989196-4397b700-f487-11ea-83c3-8f4a745ee436.png)](https://godsped.com/)
+[![Check out my home!](https://user-images.githubusercontent.com/35205346/92989224-822d7180-f487-11ea-8d1b-47d449772522.png)](https://godsped.com/)
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/Samir-Rashid" alt="profile views"> •  
